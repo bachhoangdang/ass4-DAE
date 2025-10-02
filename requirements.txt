@@ -1,0 +1,14 @@
+awscli
+black
+flake8
+isort
+mkdocs
+pip
+pytest
+python-dotenv
+pandas
+matplotlib
+scikit-learn
+mlflow
+dvc[s3]
+-e .
